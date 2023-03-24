@@ -18,8 +18,8 @@
 
  <div align="center"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png" height="40" title="HTML" />     <img src="https://img.icons8.com/color/256/css3.png" height="40" title="CSS" />      <img src="https://img.icons8.com/color/256/javascript.png" height="40" title="JavaScript"/>   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png" height="40" title="vue.js"/>      <img src="https://img.icons8.com/fluency/256/node-js.png" height="30" title="node.js"/>     <img src="https://img.icons8.com/fluency/256/c-sharp-logo.png" height="40" title="C#" />      <img src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/256/external-Dot-Net-social-media-those-icons-lineal-color-those-icons.png" height="40" title=".NET" />      <img src="https://img.icons8.com/fluency/256/mysql-logo.png" height="40" title="MySQL"/> </div>
  
- <div align="center">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smithtaylord&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)</div>
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smithtaylord&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
  
 
 
