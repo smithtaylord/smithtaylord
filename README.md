@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center"> Hola Mundo <img width="30px" src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/hi.gif">, I'm <a href="https://arsh.dev"> Arsh Sahzad </a><i>aka <del>Md Amir Ali</i></del></h1>
+<h1 align="center"> Hi there <img width="30px" src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/hi.gif">, I'm Taylor Smith </h1>
 
 - 🔭 I'm currently working on completing my studies as a Full Stack Software Development Student at Boise Code Works. I'm excited to apply these skills in a software development role and contribute to the success of a team.
 
