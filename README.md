@@ -10,5 +10,5 @@
 
 - ⚡ Fun fact: In a previous role, I worked closely with a software development team to create and implement a warehouse management system, which sparked my interest in pursuing a career in software development. I also love to hike and explore the great outdoors in my free time.
 
-- 💻 coding languages <img src="https://simpleicons.org/icons/html5.svg" height="30" />| <img src="https://simpleicons.org/icons/css3.svg" height="30" />| <img src="https://simpleicons.org/icons/javascript.svg" height="30" />| <img src="https://simpleicons.org/icons/nodedotjs.svg" height="30" />| | <img src="https://simpleicons.org/icons/csharp.svg" height="30" /> |<img src="https://simpleicons.org/icons/dotnet.svg" height="30" />| <img src="https://simpleicons.org/icons/mysql.svg" height="30" />
+- 💻 coding languages |   <img src="https://simpleicons.org/icons/html5.svg" height="30" />   |   <img src="https://simpleicons.org/icons/css3.svg" height="30" />   |   <img src="https://simpleicons.org/icons/javascript.svg" height="30" />   |   <img src="https://simpleicons.org/icons/nodedotjs.svg" height="30" />   |   <img src="https://simpleicons.org/icons/csharp.svg" height="30" />   |   <img src="https://simpleicons.org/icons/dotnet.svg" height="30" />   |   <img src="https://simpleicons.org/icons/mysql.svg" height="30" />   |
 
