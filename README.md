@@ -4,7 +4,7 @@
 
 - 💬 Ask me about my experience in management and leadership, and how it has helped me become a more effective software developer. I'm also happy to talk about my favorite development tools and techniques.
 
-- 📫 You can reach me at https://www.linkedin.com/in/taylor-smith-3b63405a/  or via email at Smith.TaylorD@gmail.com. I'm always happy to connect with other professionals in the industry and discuss potential collaboration opportunities.
+- 📫 You can reach me at  <a href=" https://www.linkedin.com/in/taylor-smith-3b63405a/" target="blank"><img align="center" src="https://img.icons8.com/color/256/linkedin.png" height="30" title="Taylor's LinkedIn"/></a>   or via email at Smith.TaylorD@gmail.com. I'm always happy to connect with other professionals in the industry and discuss potential collaboration opportunities.
 
 - 😄 Pronouns: he/him
 
