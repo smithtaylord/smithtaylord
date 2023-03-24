@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on completing my studies as a Full Stack Software Development Student at Boise Code Works. I'm excited to apply these skills in a software development role and contribute to the success of a team.
 
-- 🌱 I’m currently learning <img src="https://simpleicons.org/icons/html5.svg" height="50" />| <img src="https://simpleicons.org/icons/css3.svg" height="50" />| <img src="https://simpleicons.org/icons/javascript.svg" height="50" />| <img src="https://simpleicons.org/icons/nodedotjs.svg" height="50" />| | C# |.Net | SQL
+- 🌱 I’m currently learning <img src="https://simpleicons.org/icons/html5.svg" height="25" />| <img src="https://simpleicons.org/icons/css3.svg" height="50" />| <img src="https://simpleicons.org/icons/javascript.svg" height="50" />| <img src="https://simpleicons.org/icons/nodedotjs.svg" height="50" />| | C# |.Net | SQL
 
 - 💬 Ask me about my experience in management and leadership, and how it has helped me become a more effective software developer. I'm also happy to talk about my favorite development tools and techniques.
 
