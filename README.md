@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center"> Hi there <img width="30px" src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/hi.gif">, I'm Taylor Smith </h1>
 
