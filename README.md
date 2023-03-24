@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 - 🔭 I'm currently working on completing my studies as a Full Stack Software Development Student at Boise Code Works. I'm excited to apply these skills in a software development role and contribute to the success of a team.
 
 - 🌱 I’m currently learning HTML| CSS| JavaScript| Vue.js| Node.js| C# |.Net | SQL
@@ -13,5 +12,3 @@
 
 - ⚡ Fun fact: In a previous role, I worked closely with a software development team to create and implement a warehouse management system, which sparked my interest in pursuing a career in software development. I also love to hike and explore the great outdoors in my free time.
 
-
--->
