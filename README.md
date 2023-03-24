@@ -10,8 +10,10 @@
 - 😄 Pronouns: he/him
 
 - ⚡ Fun fact: In a previous role, I worked closely with a software development team to create and implement a warehouse management system, which sparked my interest in pursuing a career in software development. I also love to hike and explore the great outdoors in my free time.
+
+
 <div display="flex">
-<div>
+
 <h3 align="center"> 💻 Coding Languages 💻  </h3>
 
 
