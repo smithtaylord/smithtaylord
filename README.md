@@ -28,8 +28,12 @@
  </div>
  
 <div align="center">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smithtaylord&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+  <div style="text-align: center;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=smithtaylord&count_private=true&show_icons=true&theme=synthwave" />
+    </a>
+  </div>
+</div>
  
 
 
