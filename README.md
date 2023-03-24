@@ -12,7 +12,7 @@
 - ⚡ Fun fact: In a previous role, I worked closely with a software development team to create and implement a warehouse management system, which sparked my interest in pursuing a career in software development. I also love to hike and explore the great outdoors in my free time.
 
 
-<div display="flex">
+
 
  <h3 align="center"> 💻 Coding Languages 💻  </h3>
 
@@ -27,7 +27,7 @@
  <img src="https://img.icons8.com/fluency/256/mysql-logo.png" height="40" title="MySQL"/> 
  </div>
  
-
+<div align="center">
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smithtaylord&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
  </div>
  
