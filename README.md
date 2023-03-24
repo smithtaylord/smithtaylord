@@ -2,11 +2,11 @@
 
 - 🔭 I'm currently working on completing my studies as a Full Stack Software Development Student at Boise Code Works. I'm excited to apply these skills in a software development role and contribute to the success of a team.
 
-- 🌱 I’m currently learning HTML| CSS| JavaScript| Vue.js| Node.js| C# |.Net | SQL
+- 🌱 I’m currently learning <img src="https://simpleicons.org/icons/html5.svg" height="100" />| CSS| JavaScript| Vue.js| Node.js| C# |.Net | SQL
 
 - 💬 Ask me about my experience in management and leadership, and how it has helped me become a more effective software developer. I'm also happy to talk about my favorite development tools and techniques.
 
-📫 You can reach me at https://www.linkedin.com/in/taylor-smith-3b63405a/  or via email at Smith.TaylorD@gmail.com. I'm always happy to connect with other professionals in the industry and discuss potential collaboration opportunities.
+- 📫 You can reach me at https://www.linkedin.com/in/taylor-smith-3b63405a/  or via email at Smith.TaylorD@gmail.com. I'm always happy to connect with other professionals in the industry and discuss potential collaboration opportunities.
 
 - 😄 Pronouns: he/him
 
