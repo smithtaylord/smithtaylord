@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning: <img align="center" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react" height="20"/>
 
 
-🎓 I have successfully completed my studies as a Full Stack Software Development Student at Boise Code Works. I am excited to apply the skills and knowledge I have gained in a software development role and contribute to the success of a team.
+- 🎓 I have successfully completed my studies as a Full Stack Software Development Student at Boise Code Works. I am excited to apply the skills and knowledge I have gained in a software development role and contribute to the success of a team.
 
 - 💬 Ask me about my experience in management and leadership, and how it has helped me become a more effective software developer. I'm also happy to talk about my favorite development tools and techniques.
 
