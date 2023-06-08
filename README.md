@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there <img width="30px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png">, I'm Taylor Smith </h1>
 
 
-<!--  - 🌱 I'm currently learning: <img align="center" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" height="20"/> -->
+- 🌱 I'm currently learning: <img align="center" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" height="20"/>
 
 
 - 🎓 I have successfully completed my studies as a Full Stack Software Development Student at Boise Code Works. I am excited to apply the skills and knowledge I have gained in a software development role and contribute to the success of a team.
